@@ -1,0 +1,8 @@
+.hero-section {
+    background-color:pink;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 65vh;
+}
